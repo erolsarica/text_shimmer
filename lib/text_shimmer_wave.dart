@@ -122,4 +122,3 @@ class _TextShimmerWaveState extends State<TextShimmerWave>
     );
   }
 }
-
